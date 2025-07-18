@@ -11,7 +11,7 @@ from ttkbootstrap.constants import *
 import requests
 import numpy as np 
 
-API_key = 'nPOAdzrvpGe1Xu5vHJs7CAdUtRgmRZfpmMh1gfsc' # API Key - US Energy & Administration #Nicks API Key 
+API_key = '#######################' # API Key - US Energy & Administration
 
 API_url = 'https://api.eia.gov/v2/natural-gas/prod/sum/data/?frequency=monthly&data[0]=value&facets[duoarea][]=STX&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=5000'
 
